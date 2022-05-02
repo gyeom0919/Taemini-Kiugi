@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 6430db14b84daf0448be6486c0e64af5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4234561015088972624
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_0
+  - first:
+      213: -5787801059283998424
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_1
+  - first:
+      213: 6555247276731000464
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_2
+  - first:
+      213: -6641578952095685826
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_3
+  - first:
+      213: -2029254363582396201
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_4
+  - first:
+      213: -4987256197123577847
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_5
+  - first:
+      213: -2617220557323728162
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_6
+  - first:
+      213: -2190272674462231194
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_7
+  - first:
+      213: -7410363082352421428
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_8
+  - first:
+      213: -2937206903680813757
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_9
+  - first:
+      213: -7228132161700507070
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_10
+  - first:
+      213: -4145635655024463728
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_11
+  - first:
+      213: 8796714217240256843
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_12
+  - first:
+      213: -5233891650736635294
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_13
+  - first:
+      213: -5750725800648368901
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_14
+  - first:
+      213: 6372436031358318582
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_15
+  - first:
+      213: 2700537784810465896
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_16
+  - first:
+      213: 5597447948558562834
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_17
+  - first:
+      213: 8591558178305074347
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_18
+  - first:
+      213: -8851000252578099532
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_19
+  - first:
+      213: 8623157149751710584
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_20
+  - first:
+      213: 3355099717412738
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_21
+  - first:
+      213: 3187222674558820042
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_22
+  - first:
+      213: -3849608087007493267
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_23
+  - first:
+      213: 8060425059980353422
+    second: Game Boy Advance - Golden Sun - Item Icons (1)_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053881cbece24ca30800000000000000
+      internalID: 4234561015088972624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 188.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296fb60a999dafa0800000000000000
+      internalID: -5787801059283998424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 188.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096e560caaae8fa50800000000000000
+      internalID: 6555247276731000464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 188.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3320a4b12f54d3a0800000000000000
+      internalID: -6641578952095685826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 188.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d882c368e3a6d3e0800000000000000
+      internalID: -2029254363582396201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908659e89e4b9cab0800000000000000
+      internalID: -4987256197123577847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 141.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8edd05c3cdabd0800000000000000
+      internalID: -2617220557323728162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 141.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651f6d6b969a91e0800000000000000
+      internalID: -2190272674462231194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 141.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc517b3d90a192990800000000000000
+      internalID: -7410363082352421428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 141.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b74212e1fc37d0800000000000000
+      internalID: -2937206903680813757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d340681480bb90800000000000000
+      internalID: -7228132161700507070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 94.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b216165eb776c0800000000000000
+      internalID: -4145635655024463728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 94.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41eb3d39f4341a70800000000000000
+      internalID: 8796714217240256843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 94.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c5f4264b7d57b0800000000000000
+      internalID: -5233891650736635294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 94.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1eab5a515130b0800000000000000
+      internalID: -5750725800648368901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73303dec07f6850800000000000000
+      internalID: 6372436031358318582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae526aecc3a7520800000000000000
+      internalID: 2700537784810465896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216729ea0412ead40800000000000000
+      internalID: 5597447948558562834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 47.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e9f4a4a85b3770800000000000000
+      internalID: 8591558178305074347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 47.8
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be80363a2eea2580800000000000000
+      internalID: -8851000252578099532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0.79999924
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87312518dbb9ba770800000000000000
+      internalID: 8623157149751710584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0.79999924
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a7d6027beb0000800000000000000
+      internalID: 3355099717412738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0.79999924
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1629c22a4b3c20800000000000000
+      internalID: 3187222674558820042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0.79999924
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63827947d1739ac0800000000000000
+      internalID: -3849608087007493267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Item Icons (1)_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0.79999924
+        width: 129
+        height: 47.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f19c6d2e16cdf60800000000000000
+      internalID: 8060425059980353422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

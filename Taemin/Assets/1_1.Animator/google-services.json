@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340320735290",
+    "project_id": "kimdda-c3ae1",
+    "storage_bucket": "kimdda-c3ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340320735290:android:be4f67bd4c61ae501fa503",
+        "android_client_info": {
+          "package_name": "kimdda2min_studio.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340320735290-se9nb0inmrbqeo3rr917r7ko3gq49bnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6l2V0YoNQHDRmBXRtNv0ZSMcvjxg-yFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340320735290-se9nb0inmrbqeo3rr917r7ko3gq49bnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
