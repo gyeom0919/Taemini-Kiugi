@@ -62,7 +62,7 @@
     <img src = https://raw.githubusercontent.com/gyeom0919/2021-MDP-PROJECT/main/Taemin/Assets/3.Sprite/20211128_210911-removebg-preview.png width = 100>
 </div> 
 
->몬스터를 잡으면 일정확률로 나오는 재료들을 모아 강력한 아이템 제작 <bi>
+>몬스터를 잡으면 일정확률로 나오는 재료들을 모아 강력한 아이템 제작 
 
 <div><img src = https://raw.githubusercontent.com/gyeom0919/2021-MDP-PROJECT/main/Taemin/Assets/3.Sprite/Ui_Inventory_sp.png height = "150">
 
