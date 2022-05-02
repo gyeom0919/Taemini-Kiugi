@@ -25,7 +25,7 @@
 
 ## 역할
 
-#### 개인별 역할:
+### 개인별 역할:
 
 **강민석 (조장)**
 
@@ -62,7 +62,7 @@
     <img src = https://raw.githubusercontent.com/gyeom0919/2021-MDP-PROJECT/main/Taemin/Assets/3.Sprite/20211128_210911-removebg-preview.png width = 100>
 </div> 
 
->몬스터를 잡으면 일정확률로 나오는 재료들을 모아 강력한 아이템 제작 
+>몬스터를 잡으면 일정확률로 나오는 재료들을 모아 강력한 아이템 제작
 
 <div><img src = https://raw.githubusercontent.com/gyeom0919/2021-MDP-PROJECT/main/Taemin/Assets/3.Sprite/Ui_Inventory_sp.png height = "150">
 
@@ -89,3 +89,8 @@
 > 1~9까지던전에 입장하여 몬스터와 싸우고 전리품을 얻는다 (돈, 아이템,재료)
 
 ## 동작 및 플레이 방법
+
+
+![GrowTaemin-Flowchart](https://user-images.githubusercontent.com/95688320/166219480-a067fb56-3b17-4f77-9ef0-54682078ab0b.jpg)
+
+
